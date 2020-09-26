@@ -1,3 +1,6 @@
-django
-gunicorn
-django-heroku
+ipywidgets==7.5.1
+matplotlib @ file:///C:/ci/matplotlib-base_1592837548929/work
+numpy==1.18.5
+pandas @ file:///C:/ci/pandas_1592833613419/work
+pandocfilters==1.4.2
+voila @ file:///home/conda/feedstock_root/build_artifacts/voila_1599157523671/work
